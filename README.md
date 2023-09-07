@@ -23,7 +23,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 ## Step 1: Add headers
 
-## _Welcome to "Communicate using Markdown"! :wave:_
+_Welcome to "Communicate using Markdown"! :wave:_
 
 **What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
 
@@ -53,7 +53,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 ### :keyboard: Activity: Edit your file with headers
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
+## 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Open the **pull requests** tab.
 1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
 1. Click **Create pull request**.
